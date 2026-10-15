@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Track only these files
+!.gitignore
+!paper.pdf
+!readme.md
